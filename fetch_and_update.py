@@ -188,26 +188,30 @@ def main():
         if len(new_items) >= MAX_NEW_PER_RUN:
             break
 
-    if not new_items:
+    if new_items:
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        for item in new_items:
+            tagline = catchy_tagline(item["title"], item["source"])
+            data.append({
+                "url": item["url"],
+                "source": item["source"],
+                "tagline": tagline,
+                "date_added": today,
+            })
+            print(f"Added [{item['source']}]: {tagline}")
+
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+            f.write("\n")
+
+        print(f"Added {len(new_items)} new stories.")
+    else:
         print("No new stories found this run.")
-        return
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    for item in new_items:
-        tagline = catchy_tagline(item["title"], item["source"])
-        data.append({
-            "url": item["url"],
-            "source": item["source"],
-            "tagline": tagline,
-            "date_added": today,
-        })
-        print(f"Added [{item['source']}]: {tagline}")
-
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
-        f.write("\n")
-
-    print(f"Added {len(new_items)} new stories. Rebuilding index.html...")
+    # Always rebuild, even with no new stories, so template/style changes
+    # (build.py, style.css) take effect on the very next run rather than
+    # waiting for the next new story.
+    print("Rebuilding index.html...")
     subprocess.run([sys.executable, "build.py"], check=True)
 
 
