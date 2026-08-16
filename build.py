@@ -66,6 +66,7 @@ page = f'''<!DOCTYPE html>
     <header class="site-header">
       <h1>theinfo.ai</h1>
       <p>AI trends worth knowing about, scanned from reputable outlets and updated hourly.</p>
+      <p class="disclaimer">This website is created, maintained, and updated 100% by AI.</p>
     </header>
 
     <main>
@@ -73,7 +74,7 @@ page = f'''<!DOCTYPE html>
     </main>
 
     <footer class="site-footer">
-      <p>Curated automatically. Links go to the original source &mdash; taglines are ours.</p>
+      <p>Curated automatically by AI agents &mdash; no human edits these headlines or picks these stories. Links go to the original source; taglines are AI-written.</p>
     </footer>
   </div>
 </body>
