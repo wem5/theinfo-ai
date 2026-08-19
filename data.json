@@ -640,5 +640,17 @@
     "source": "WSJ",
     "tagline": "When AI systems stopped following orders: What OpenAI discovered",
     "date_added": "2026-08-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch",
+    "tagline": "OpenAI raises the privacy stakes in its rivalry with Anthropic",
+    "date_added": "2026-08-19"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0VxNEg5YTBJS3ExWnBST21CakVKTlF4WU1qbmFlZEJYS19MblFGZjZwM3F2b1FjYUg3Ym1WbXBmSFc5Mms2Qy02WTh2QXVCWE5GYzVHRUZHRXFyQlRvODJlTGdWaW1BbzZNTmV5eFRNemM1eExfekNqXzJWakM0eS15SnVzVktvZzJQZnBvSFBfU1dPSzdsUDBjRnFPMWd1Y3RsUFEwajFCSmhycHF1TkJzZ3dVVHhSc0FsY3FIdElmMlA1?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "The AI safety problem nobody can solve yet",
+    "date_added": "2026-08-19"
   }
 ]
