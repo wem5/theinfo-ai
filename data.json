@@ -1930,5 +1930,41 @@
     "source": "CNBC",
     "tagline": "When AI goes rogue: Why the Bank of England just sounded the alarm on your money",
     "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch",
+    "tagline": "Inside the Pentagon's AI arms race: Meet the military's answer to ChatGPT",
+    "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch",
+    "tagline": "Instagram cracks down on fake AI accounts that hide their artificial nature",
+    "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch",
+    "tagline": "Startup tackles officer misconduct with AI-powered oversight tool, secures $6M in funding",
+    "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "source": "TechCrunch",
+    "tagline": "AI startup finds the needle in the video haystack with quarter-billion dollar valuation",
+    "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "source": "TechCrunch",
+    "tagline": "Nvidia makes a bold $3.5B move to challenge the AI chip dominance game",
+    "date_added": "2026-08-31"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "source": "TechCrunch",
+    "tagline": "Europe grapples with the ultimate AI question: who's really pulling the strings?",
+    "date_added": "2026-08-31"
   }
 ]
