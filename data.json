@@ -2326,5 +2326,41 @@
     "source": "wsj.com",
     "tagline": "Nvidia's Bold Bet: Scoops Up Hugging Face for $13B to Dominate AI",
     "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "source": "TechCrunch",
+    "tagline": "The startup selling keys to unlock AI's safety features",
+    "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch",
+    "tagline": "Meta's new AI comes with a price tag\u2014and you might be the product",
+    "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "source": "TechCrunch",
+    "tagline": "Meet OpenAI's most ambitious AI yet\u2014and why it's already causing a stir",
+    "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFFMOVN0WFItRlg2RExOaGQwNlVCaVk4UEdVSDhNbEZVUElvejVDUUxVRklVRnNESzd1bUczRS1EOXNXVlZ2R01vSlhqSVdNa0FVVW5wZXdDNERnXzFoaGJUOFdEdldTU1M5ODRPRzg5UEViTmx6MEtPTlBsQ0dHTUNEeE11YU1hTFJDaEtRNF9tRTd2MlRIRGxweEttX0lJRENPOW4tY3FiaElKZ0FYYXdWOVAxOVlsdTJfbDhwQm9vV19udEJTaTBWRmI1VzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Abu Dhabi's AI breakthrough: Complete transparency meets open innovation",
+    "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNtSmdnc2w3UWxEWmlGdk9MN29MNXZrdjlOYXY1am1yYUM2aVo5SmhKbUd6TFRyeFJQLWJ2azVfNFJwcDRDWDVNdUpPcGZJZnJaWXlhVmRQWE12ZXhqWWI1dFp6azNPYkdSYThRXzdiTzVNcnRrSE9iU0xIcExYcV94ZVBmUlVGMExsMVZyM2JtSHFTc1JUOVBtSjkwaTZXQU92TVpUSEx4UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Axios",
+    "tagline": "Teaching machines to invent biology that nature never imagined",
+    "date_added": "2026-09-03"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Meet Astra: OpenAI's bold new agent as safety questions intensify",
+    "date_added": "2026-09-03"
   }
 ]
