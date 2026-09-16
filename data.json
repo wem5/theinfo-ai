@@ -3856,5 +3856,77 @@
     "source": "Bloomberg Law News",
     "tagline": "AI giants race to shape Washington's rules before they're written",
     "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch",
+    "tagline": "AI companies push for internal audits while leaving security gaps wide open",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "tagline": "Train your AI to command your smart home",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch",
+    "tagline": "Claude gets a unified workspace where chatting and collaborating finally click",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "tagline": "The breakthrough robots have been waiting for is finally within reach",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemEtc1lCaUxzdHhLbzkyQ3JDeUR2ZzJza2ZIX1pQWEJWN2I4b2hvRXpmcmNSZTZucGhVN2Vlek1GRXU0dV93YUJHQmo3WmMzOUVZSWhvbU1zN2EzWVlkSEVwcGlfV2tFYlBfTVZUSW5BUGdiNWQyTVB1b1VjTVYxM2o2cUZfOEFicDJRVGxfT3N6WnpYcUo0cEluYTNac2NqRTk2Q0xPTVNQQ2g2czQxeDN0Zm5xeHY0ektFZQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "reuters.com",
+    "tagline": "Inside Trump's AI cheerleader: Why one adviser dismisses existential risk concerns",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWlyTTZOc0p6bWNqWW1MdGlWMGNOU1Z0SEpkVWYxM1llUTNVX1ROWXJKMTNSYXNUSUV6VDhYTlRJcjB2SHpXa3dwUy1NN1pKSUEwLXN5bzkzVFgwZTRidjZmdUNjRnE0d3ZfcXh5T1BHM2JfVXpvYVRYdHFmNHdZVUlQNzliV29BVkM0cjdsS2Qtekg3YXJOSi05MkhaQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "reuters.com",
+    "tagline": "Global AI safety concerns clash as world leaders diverge on the threat",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkd5RW9SOEZ1SF81cUFBVWRzWXgxcFJFRzRrREpBNUFiXzBVT2ZOeHNLX0k3VWl0Yk9zSmg4MFE3SUhYempjNzVudUNROXgydDI1bDlMTnhPX1d4aDJYS1dvdTdIOERSdmdYS2x2M2psMjJUU3hRbGFQUi1kMVFkekRxZ0dOU254MEHSAYoBQVVfeXFMT2JHeUVvUjhGdUhfNXFBQVVkc1l4MXBSRUc0a0RKQTVBYl8wVU9mTnhzS19JN1VpdGJPc0poODBRN0lIWHpqYzc1bnVDUTl4MnQyNWw5TE54T19XeGgyWEtXb3U3SDhEUnZnWEtsdjNqbDIyVFN4UWxhUFItZDFRZHpEcWdHTlNueDBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Senator warns AI is spiraling beyond our ability to manage it",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pQ1F6UU15TWZESlFqQ2NKOVFEdXlnUUgxQzRYZGFUOHp5WUphU29HbmtycmFDcFJOMklUdFY2UkhuVEk3b01vdU1TTS1KYjU3Tmlqa3pBN0o2MzBJTE5TNVVIdWhGX1dLa3BDbnBtY3F1ZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "WIRED",
+    "tagline": "A fruit fly's neurons inspired real journalism\u2014here's how",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV1JmR2F5RzNXMEZsOEZMcGliU2pweG1GQkhIcFJpdWZ0dEQ5RVlwOXpBWFRLdGtFODJpcFY1cDB2LUFTSTJsdEdwc0VjXzE0RTlnWHdOampLRW9iVUdFNGkwdDl2YWpTM3pXdXlEamJiYkdwNEc3QS1BX2x0RXRVZTFLbU1FTlRpaVg0U3pvdlVHeWxLSHF3a2VGcVIwdFdBcHNFOWxaQTRZZ1BUbmFVMzdrUEVvbVBKaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "news.bloomberglaw.com",
+    "tagline": "UN wants world powers to get on the same page about AI rules",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRHExZGJ3QWplNjdzeFNfUXBNTFlwQUlYT0FvR2VqSk9FdXQ2b0NWWjE0QklYQjJiczctTjhKT2hxcVQzcFNXaDMzUG1yN0N4LVhSUUl1cXpCekN0anVPUVNtT1dMYmhIX1pGMk91QTNWTFRzUmZ5MGloNDB6OTZ2X1ZGUXVsbHI2VXBFcXU1WGRyQ3lBYk5Sb1dhQnAxQ18xT3hTeF9nMFhkS1RWOEo1RUFYdGtfYk9ENVFreWNkYzF3eV9maEhhbWJfWUZBeXpuRlBUYmwweTFJemw5bTB6VFR0NEFMTm53b093T0ZqMU1MRXVLbG1PbzRoRmszRl9kS3JBWXNudHJlaFAzUlc3MlpSay1YamFWb0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "markets.businessinsider.com",
+    "tagline": "Can AI Compose Better Than Humans? A Bold New Musical Showdown Reveals the Answer",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zR2Zic1FQamxJbnVyUTU4M2ZETFlRX3JDdjQtM3dhOFoxNmFJY2s3akZ5Y0dUOEpGQWpDWUExSGNZZlVGYUFIam5VQmhiZm1MMnJmc1NjUzFBY0MyaFpVbkRnNl83aFQ1RUdMQ1YtMHE1UFA1YnRpTWN4Y3VNd9IBfkFVX3lxTE4zR2Zic1FQamxJbnVyUTU4M2ZETFlRX3JDdjQtM3dhOFoxNmFJY2s3akZ5Y0dUOEpGQWpDWUExSGNZZlVGYUFIam5VQmhiZm1MMnJmc1NjUzFBY0MyaFpVbkRnNl83aFQ1RUdMQ1YtMHE1UFA1YnRpTWN4Y3VNdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Why the Pentagon's top tech officer thinks Uncle Sam should stay out of Big Tech's wallet",
+    "date_added": "2026-09-16"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX1lGcGV3bWJhWlJXb2lsX3JDaEtoRnJHRmVCb0FmZFhaZlNtRF9BRVBwNDFRZXdiVXdlc1RWNUN2YlRtb0J6U3RaRURKSVJtdTZNMnNrZW1ldnI4THlxeHl2V0l2S0U0aFNuZWgxY0hTblNhRGN6U2hHZ1ZmMDR1VmhoR2xILXNkWDc1RzNCMDRxUEp5S0xzcU5OYXZiLVlzM2tnOWlrNWR0NmNoV3JJcThmMEhkUkhnNWI3eER3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "reuters.com",
+    "tagline": "AI pioneer sounds alarm: are we moving too fast for safety to keep up?",
+    "date_added": "2026-09-16"
   }
 ]
