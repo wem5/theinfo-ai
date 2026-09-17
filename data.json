@@ -4132,5 +4132,47 @@
     "source": "CNBC",
     "tagline": "Palantir's boss breaks down why AI needs guardrails to avoid disaster",
     "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "source": "TechCrunch",
+    "tagline": "Meet the AI that fits in your pocket\u2014no cloud required",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "source": "TechCrunch",
+    "tagline": "Artificial brains take flight: How the FAA is betting big on AI to untangle our skies",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXhlT1dYUkp3Tk9pS0RHc0UxU0NXZ3ZRMkYyZGFrMEducEJHRUkzVVJJZXJzS3ZrWXVJRHJzZk5CQWhPa2ZzVHJCRDdRZ2haaTZ2MDBLZzc5V2NUSnFUTlhZZzd4Y29xY0ptU3VwZWVoNHhzRVNMZ2N6aXRYVjcwSmZPQTNfN3daSVNCUE8zMS1yNlRxZ0V2TlhMNGQ3c2FQNDk5Y253?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "American courts chart a path forward as judges grapple with AI's growing role in the legal system",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnJWZ0JVOU00NlJhLU42Q2REa1hJdkdGV3BaaTJ0SGZJc1M0ci1ITXdyR3NnbWdKWFdVdjRqQnM4Z2hjOHFNMGd6RG8yNGdYb1N0am1HZXdGYlBGZG5wM0QybGhKd1NSVGdRUW5najRFMWp4NGVtS3RsWFlUZ2NCNVRuRFR6VHFxeHdjSjNkRDVnRE5Wa2Znazk0TXNJZzhqZk5zdkxqMkpiZ1lwRUx4ZGJrOVhHV1l1NHR3a1dTX3J1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Lawyers keep submitting AI-written court papers full of mistakes, even after getting warned",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzN2eUY3RnNGdHJMYWNMdS12T3g4WjB0SW1lOUIzNF85bC03a2lZVVo0QXVGc2cyMUUzS0lzUThUZ3BPZkZOalRkejJ0MkwwSC1VQVN6ck9yZHJzUEhoTGstQUEwRll6WHo0dWVxV21kR1FwTTVubWdDWTByWGJpUU1YeU9FYzZOektWZ1dMNmtWUTdveE1id1Y4Q2lHUWhuQ1FKTTFEY9IBrAFBVV95cUxQenhKVjFMSlpUdXlCc21oZTZvR3Ywa0Q3Rk9ILTAteUlXT3ZENFZxOHJxLVlrS0REcnM2NHFzaE9BMFR4N2ZDMnc3djhWN0hrcGN3WlhsZkd0SWs1aThJdk1FSWp5YTdQOS04ZWtVVTB6UzVMTVVURGhPclJjbGpWNUtzUTI2eEJPNjhVQlhxVmk5R09JaURYX3A4UFJYR0sybGdfak9JUHhlcEpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "How AI labs are measuring their own progress toward advanced systems",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "washingtonpost.com",
+    "tagline": "How AI upgrades are making the Pentagon's defenses more vulnerable than ever",
+    "date_added": "2026-09-17"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSTBHb0F3bjFOTVY4RDExZ1Q4SUVqOEppWEdrc0t0TUhUc0NZNG0yZl9Da2daU1RyRnZPYlMzSDRRM0UzTlgwSHpTTDBKR201eVJocll5WHhKdDZNekVTTnBiQmhLaGZaaXZXQTBPRncxNjVUQjNIWU50RWRNd19wNmR4VGdNMzJEeGpoMXRNSG9Bd1JYc0ZYemZkUXZGUXBLRVBLYnozN1FmZ1dlcTYwdHU0aEtxd2RJOC1jb1M5empFdmNSWEV5bzAwTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Federal agency's AI tool raises espionage concerns over alleged theft from US firm",
+    "date_added": "2026-09-17"
   }
 ]
