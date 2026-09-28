@@ -5428,5 +5428,59 @@
     "source": "WSJ",
     "tagline": "Can Meta's AI bet finally turn massive spending into real profits for business users",
     "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch",
+    "tagline": "Let AI bots loose on your Shopify store",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "tagline": "Control the chaos: How Nvidia is taming wild AI agents",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "source": "TechCrunch",
+    "tagline": "Meet the speedier, budget-friendly AI that's ready to handle your workload",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "source": "TechCrunch",
+    "tagline": "Google ditches Gems for a fresh take on AI customization",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "source": "TechCrunch",
+    "tagline": "OpenAI's hidden AI problem just got messier",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "source": "TechCrunch",
+    "tagline": "Meta's new AI bet: poaching MongoDB's leader for a bold enterprise push",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "tagline": "Watch Anthropic, Gamma and Clay reveal real-world AI deployment lessons from the enterprise trenches",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJGOXJ5VG45UUJaOEZ4MWNFZDQwd3BpUEtsWkFCeFhPbVd5UmFDaDFCelYwaTduR3h2TEsyUTlCeFFReHNtc3h2Y0p4Zi1BVUs2Qnk4ZjZPV2hnSUZEMlVrVWRxbThlT25RdUNVbHEyVHJ6R1dwVlZ5VzlORVZzRGNVbnpxZWZxWXpVMEhEeFpaUGxCRW8zVDRDaHp1R19HbUE5M3dWaERBU2N2aGtsRldiT3RPbDBheUI1VFBjU2FiV2sxOUNvUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Tech titans and Trump seek the AI sweet spot",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Nvidia's new tool aims to prevent hacks like the one that hit Hugging Face",
+    "date_added": "2026-09-28"
   }
 ]
