@@ -5374,5 +5374,59 @@
     "source": "Bloomberg.com",
     "tagline": "Trump sits down with Anthropic CEO amid growing concerns over AI security risks",
     "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "source": "TechCrunch",
+    "tagline": "Voice AI startup Modulate lands $25M to power next-gen audio tech",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "source": "TechCrunch",
+    "tagline": "Outmarket doubles down: Fresh $34.5M fuels rapid insurance tech expansion",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "source": "TechCrunch",
+    "tagline": "AI startup Instinct hits unicorn status with record-breaking $1B funding round",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXhteHpIczlrc0FJdC1weWF5ZzJUbl9TZXI3Y1hTWGtIam9XN1J4MFBzS0Z1dHhNTG0yejMtR0ZxbkxEYjhvQ3VMX2Y4d0Y0SUhtMHRjYVdxQnNjbURiX0M2blJld2pqOWJRQUZFOF9ZVVFrOERWV3R1V09kVzhFREUyTERCNHVuUF9lWnVua2VVVkE3RG5oTDFfYjRSSHJpdFhVZk5oMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Forbes",
+    "tagline": "Beyond smart machines: why AI's real challenge is earning your confidence",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Keep your AI in check: Nvidia's new guardrails for rogue agents",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlGaUdBRl9pMEUydUZaRV9JeVEtaHlLc05ZZXhOb213VHBYRHhRMlNGYkJyN0VsM3JQWEVRUWNiM2dqLVpPSWVhSHFMZ1BWeFF1MVJWSWZYci1UenU3T1F1OTNEM2VqNURDdGhaM3E2dUxnV2pNNlQwdUtneV8ySHpWd1ZNU1IxSTdXSmxicHYtaGZIMEl3T2xta09GV1VmZmc0TXNjenB0eGlRMldj?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "AI trade rebounds as market sentiment shifts, JPMorgan predicts",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXpsNWh1cDF0aEVHajNxNTBUU1V5TWp1cFFCZmJYVGQ5bEJxT241cXd5Tmk4SGFYckpMdTU3cFZ3U1A4REtYcWtWc0M1RTlFeGc0d0VpR0dtOEVWd1c4QlZNdC1SbE0yV1RRUUlYWGNjbnhJalE0cEFlb25wa21EeXdFU3JYMk5PRW5adXBMLXg3TlRSUS1v0gGcAUFVX3lxTFBaTndFYldrdnVTaTU0dEFiZERuVEhBc3ZrOE5faHBDV0Q0WFZQdU56TlpOdlVyYzkwWEZUaTZBMzN0UVRlN3JGMnRFa2RiNE42MEEtVHR2VTkxWnJNdEYtQjFRczFBSExaSWtMMmZQMWplRnk1TEhzel80NXdxS0ZJODQyTG13QjdFWFpQbW1KejJ2bG1uM2VLVER4Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Tech giants face Senate scrutiny over AI tax break benefits",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2tLRkVYU2pKSXl0NW5iS3ZPcGd6TGZSYXNvUjRpOVpCOTRVcC03UHYxTFR3NUhGRDJkeVRncDJJN3hMcFNXLUtRVHZzZzg5ZlFKNkwyNTllYU9nVkFhcXVBdnVYQ3ZBemx6SklzOVREVUxvd1FydlZnU21jYmhBYXNOcjNMNUpYS0FUaXk3ZWtUMW5LandYWFlkZEpwcV9URXBPOWV6bUhfS1ZqcmhqWE5hUkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Bloomberg Law News",
+    "tagline": "Tech giants hit the brakes: Why AI safety just became their top priority",
+    "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTRBYlNmX2VrMlk4eDF2UmVqdXBRNW5jOHlQYWZLUGFCblJMNGhybm92M29tb1dRNC1COVlXdW1qa2hXeHE2THpsN0lhcGlLcnYtNHFTcFN1aldjYVZsYS1id3Z4LVVSaUM5YXAwVXdjMWY1ei1lZi1ucS1rY3Q4LXNnV3FFUi1GdVhwbkxRVWZ4Z3luT0FzeUF3RWRjZFk3UTZrZXFGT0p5UkJS?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "WSJ",
+    "tagline": "Can Meta's AI bet finally turn massive spending into real profits for business users",
+    "date_added": "2026-09-28"
   }
 ]
