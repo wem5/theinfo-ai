@@ -5482,5 +5482,29 @@
     "source": "Reuters",
     "tagline": "Nvidia's new tool aims to prevent hacks like the one that hit Hugging Face",
     "date_added": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch",
+    "tagline": "OpenAI pumps the brakes on a risky AI model\u2014here's why",
+    "date_added": "2026-09-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "source": "TechCrunch",
+    "tagline": "Can AI save the planet, or is it just greenwashing at Climate Week?",
+    "date_added": "2026-09-29"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3TUxGS0pjVjBFUURiWVFRbE41MF9KQ1NQSEctRVdLaTNaODJIRVhLQzdKTy00M3ZOZDlaMDZ3aVZNZUFMejJUYmZKOURnV0pOQW4xZnpaV1JIVFRuR2pCZXBrRmI4cWo3c2FzM3dZc9IBb0FVX3lxTFA3TUxGS0pjVjBFUURiWVFRbE41MF9KQ1NQSEctRVdLaTNaODJIRVhLQzdKTy00M3ZOZDlaMDZ3aVZNZUFMejJUYmZKOURnV0pOQW4xZnpaV1JIVFRuR2pCZXBrRmI4cWo3c2FzM3dZcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Lawmaker proposes pumping the brakes on self-improving AI until safety catches up",
+    "date_added": "2026-09-29"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "WSJ",
+    "tagline": "Leading AI minds demand guardrails before machines learn to improve themselves",
+    "date_added": "2026-09-29"
   }
 ]
