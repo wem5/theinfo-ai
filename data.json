@@ -8824,5 +8824,71 @@
     "source": "Bloomberg.com",
     "tagline": "Meta's massive AI bet: Here's how much it's willing to spend",
     "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch",
+    "tagline": "AI just solved a math problem scientists thought was impossible",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch",
+    "tagline": "Meta's AI leader makes surprise jump to Microsoft and Google's office battleground",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source": "TechCrunch",
+    "tagline": "Run AI right in your browser, no cloud required",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch",
+    "tagline": "Startup defies neocloud skepticism with massive $100M funding round",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source": "TechCrunch",
+    "tagline": "Indian startup cuts your GPU costs in half with Nvidia's backing",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Trump targets the term 'artificial intelligence' for potential ban",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "When AI money fuels private credit's explosive growth, who watches the refinancing time bomb?",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjZfZ0RfX2VLZW5XOXMtZ2NXX0IwcmpHWDRobVA3aWdUSmZfOHMxQjNZRGswTlVRRzFiR1MzWGE2ZjZ1NVRiZmxCRDJSUnlwYm81dUlXcEpRMXduRzlLT1YxcHZpd24wazdhcWkzaVR3ZTVpRmx2YkktRWVGZFU2dHc3LTJNRmp4X2hnZGNhRDBoT092dDg0NmRaektFRHdBcE5Lc2FRajhGaVJ40gGyAUFVX3lxTE1jWG4xWU9sNms2c24zVG14U2RUNUM2NjRzSmVPallPc1BYWEdIbDQ4c0NqSVpZdHdGdktjMFVhQTU0MmlNWGw4VHM2Y2hNZHF5WkF2UkZrZThYb1dIQTRLaFE2WXN1MUpXaDRrX1ZnWWdvd2dXNE9qamhLbGx4clhxMzdZQTZlbm02V0NscFZsZXpQMDFxdDN5NC11djVQVjBkRWZFeUh1NHJFS0dMeE5CekE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Stand out from the algorithms: what leaders actually remember",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObm12QjZxeC1PN01KWWNFeWZ3Yjh5ay1sUS1DRkZHZ0ZOajIxMFFwYWVDOTBKc0JJV2Q3UVVSc0xaR1RxLTBwVk10ZXFUVjd2ZkVKdWJzNE9nV1lCWC1kem1YVll3SDQyMzlNQ3d0YS1KNnk3YjF0ZGowSWVqNHRSWURLTFVuMEYyRjYxdk9fcnd1SnR4RFBrRnl6TS1Fb19NdHNmNEZmdlJUakZDTFBjempkQkN5VHI5YTR2bnk2UFRCcWpQZlRUcA?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "Guidewire snaps up UK AI startup in mega deal that could hit $2.1 billion",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRF9YN1NjYnA4UldDeUx6emtyMFlTcEhfNWRpaWxFRW1HYl9JMFR5ZlZsSXhDOWNjY2dIZzRzVVFoVGpSdmo0b3VfV2RLcFhZT1FZY3h1dTZHeDFhbmJDZzRxRTBwdTM3YWp1clVwT1FseW93aC0tcFNQMzVORHZ4SGZyaU41RkVvYVc2WERoa0dUbm5CejBJZzR6QWQ1ZE4yak1PSnVFa2Znb0UxellMZWtRQnpmVlA4LU53ZDRPS21PQUlKVURtbkVMV2dEMkZ4V1k4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "Reuters",
+    "tagline": "What happens when your AI gets hacked? New threats demand new defenses",
+    "date_added": "2026-10-27"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHAtNDE0N1FrSjJ3cTB6RndId0tsX2ZPSW1LZUJ3V0FMTGdkMWZRbk5lVHhBQm9fUnhBOVVlMzJhS1VsaEp5MWxHMDBmYnFWWVJzV09DZk9LdGdZRVdoRjcyYXl4TDFPM25fMVM1ckIxOG5QTmNhZXFSZTBWVTdBQdIBgAFBVV95cUxQcHAtNDE0N1FrSjJ3cTB6RndId0tsX2ZPSW1LZUJ3V0FMTGdkMWZRbk5lVHhBQm9fUnhBOVVlMzJhS1VsaEp5MWxHMDBmYnFWWVJzV09DZk9LdGdZRVdoRjcyYXl4TDFPM25fMVM1ckIxOG5QTmNhZXFSZTBWVTdBQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "source": "CNBC",
+    "tagline": "Why Wall Street is nervous about Anthropic's AI ambitions",
+    "date_added": "2026-10-27"
   }
 ]
